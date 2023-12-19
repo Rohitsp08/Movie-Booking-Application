@@ -1,0 +1,10 @@
+Backend - Installation:
+npm i cors
+npm i express 
+npm i nodemon
+npm i react-router-dom
+npm i mongodb
+npm i bcrypt
+npm i jsonwebtoken 
+
+
